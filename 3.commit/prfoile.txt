@@ -1,2 +1,2 @@
-email :
-gitID :
+email : danny.j.park@gmail.com
+gitID : maxjc@naver.com
